@@ -1,0 +1,13 @@
+E:\Roaming_APP\PMN_Borrados\PMN_Borrados\bin\Debug\PMN_Borrados.exe.config
+E:\Roaming_APP\PMN_Borrados\PMN_Borrados\bin\Debug\PMN_Borrados.exe
+E:\Roaming_APP\PMN_Borrados\PMN_Borrados\bin\Debug\PMN_Borrados.pdb
+E:\Roaming_APP\PMN_Borrados\PMN_Borrados\bin\Debug\PMN_Borrados.xml
+E:\Roaming_APP\PMN_Borrados\PMN_Borrados\obj\Debug\PMN_Borrados.vbprojResolveAssemblyReference.cache
+E:\Roaming_APP\PMN_Borrados\PMN_Borrados\obj\Debug\PMN_Borrados.Resources.resources
+E:\Roaming_APP\PMN_Borrados\PMN_Borrados\obj\Debug\PMN_Borrados.vbproj.GenerateResource.Cache
+E:\Roaming_APP\PMN_Borrados\PMN_Borrados\obj\Debug\PMN_Borrados.exe
+E:\Roaming_APP\PMN_Borrados\PMN_Borrados\obj\Debug\PMN_Borrados.xml
+E:\Roaming_APP\PMN_Borrados\PMN_Borrados\obj\Debug\PMN_Borrados.pdb
+E:\Roaming_APP\PMN_Borrados\PMN_Borrados\obj\Debug\PMN_Borrados.fPrincipal.resources
+E:\Roaming_APP\PMN_Borrados\PMN_Borrados\obj\Debug\PMN_Borrados.fIngreso.resources
+E:\Roaming_APP\PMN_Borrados\PMN_Borrados\obj\Debug\PMN_Borrados.fConsulta.resources
