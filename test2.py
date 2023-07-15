@@ -13,14 +13,20 @@ for row in cursor.fetchall():
 
 #print (columns)
 
+cursor.execute('drop table Prueba')
+cursor.commit
+
 cursor.execute('create table Prueba (Campo1 number)')
+cursor.commit()
+cursor.execute('insert into Prueba values(2)')
+cursor.commit()
+cursor.execute('insert into Prueba values(7)')
 cursor.commit()
 
 cursor.execute('select * from Prueba')
    
 for row in cursor.fetchall():
     print (row)
-
 
 cursor.close()
 
